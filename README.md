@@ -1,2 +1,3 @@
-# ScreenOffTimeout---MIT_AppInventor
-Simple Extension component for Change Screen Sleep Time.
+## ScreenOffTime
+
+An App Inventor 2 extension created using Rush.
